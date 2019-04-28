@@ -1,2 +1,6 @@
 # Banking-Management-System
-JAVA + MySQL
+Netbeans + MySQL
+
+
+
+download the rar file and extract and run readme.txt
