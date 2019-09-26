@@ -13,4 +13,6 @@ create table accdetails(name varchar(20),dob varchar(10),address varchar(50),acc
 
 NOW YOUR DATABASE IS CREATED RUN YOUR NETBEANS PROJECT
 
+then right click on libraries in projects and click on add jar/folder then select and import the packages in the libraries folder.
+
 ENJOI....:)
